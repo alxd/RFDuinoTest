@@ -1,0 +1,4 @@
+#Mon Aug 13 13:04:53 CEST 2018
+base.0=C\:\\Users\\alex\\Documents\\tattoo\\src\\RFDuinoTest-0.0\\build\\intermediates\\transforms\\dexMerger\\debug\\269
+path.0=classes.dex
+renamed.0=classes.dex

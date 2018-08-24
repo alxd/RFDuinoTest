@@ -1,0 +1,19 @@
+#Mon Aug 13 13:25:03 CEST 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=C\:\\Users\\alex\\Documents\\tattoo\\src\\RFDuinoTest-0.0\\build\\intermediates\\transforms\\dexMerger\\debug\\283
+base.4=C\:\\Users\\alex\\Documents\\tattoo\\src\\RFDuinoTest-0.0\\build\\intermediates\\transforms\\dexMerger\\debug\\281
+base.3=C\:\\Users\\alex\\Documents\\tattoo\\src\\RFDuinoTest-0.0\\build\\intermediates\\transforms\\dexMerger\\debug\\278
+base.2=C\:\\Users\\alex\\Documents\\tattoo\\src\\RFDuinoTest-0.0\\build\\intermediates\\transforms\\dexMerger\\debug\\279
+base.1=C\:\\Users\\alex\\Documents\\tattoo\\src\\RFDuinoTest-0.0\\build\\intermediates\\transforms\\dexMerger\\debug\\282
+base.0=C\:\\Users\\alex\\Documents\\tattoo\\src\\RFDuinoTest-0.0\\build\\intermediates\\transforms\\dexMerger\\debug\\280
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex
